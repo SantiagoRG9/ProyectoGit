@@ -1,3 +1,12 @@
 body{
-    background-color: blue;
+    background-color:darksalmon;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+label{
+    color: red;
+}
+
+i{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
